@@ -50,5 +50,5 @@
 
 <details>
 <summary>Дополнительные заметки</summary>
-- Тестировать на разных браузерах (Chrome, Firefox).
+- Тестировать на разных браузерах (Chrome, Firefox, Safari).
 </details>
